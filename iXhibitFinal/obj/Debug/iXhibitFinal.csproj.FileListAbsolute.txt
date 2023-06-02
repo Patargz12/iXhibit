@@ -1,0 +1,756 @@
+D:\CCP 1103 Sir roror\iXhibitFinal\bin\Debug\iXhibitFinal.exe
+D:\CCP 1103 Sir roror\iXhibitFinal\bin\Debug\iXhibitFinal.pdb
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.AssemblyReference.cache
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.SplashScreen.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.Properties.Resources.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.WelcomePage.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.GenerateResource.cache
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CoreCompileInputs.cache
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.exe
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.pdb
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.RegForm.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.LoginForm.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.HomePageMenu.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.ChatMessage.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.ContactSeller.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.UploadArtwork.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.ViewArtwork.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.MyArtworks.resources
+D:\CCP 1103 Sir roror\iXhibitFinal\obj\Debug\iXhibitFinal.Draw.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csprojAssemblyReference.cache
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.exe
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.pdb
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.pdb
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ChatMessage.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactSeller.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Draw.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.HomePageMenu.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.LoginForm.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.MyArtworks.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.RegForm.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.SplashScreen.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Properties.Resources.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.UploadArtwork.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewArtwork.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.WelcomePage.resources
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.GenerateResource.cache
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CoreCompileInputs.cache
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy32.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy64.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.so
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.so
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.dylib
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dylib
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\mongocrypt.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe.config
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\netstandard.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.AppContext.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Specialized.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Console.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Data.Common.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Pipes.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Expressions.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Parallel.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Queryable.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Http.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NameResolution.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Ping.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Requests.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Security.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Sockets.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ObjectModel.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Reader.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Writer.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Handles.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Claims.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Principal.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.SecureString.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Thread.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Timer.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XDocument.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\SharpCompress.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\argan\Downloads\xhibit\latest - almost 40 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CopyComplete
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy32.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy64.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.so
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.so
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.dylib
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dylib
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\mongocrypt.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe.config
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.pdb
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\netstandard.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.AppContext.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Concurrent.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.NonGeneric.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Specialized.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Console.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Data.Common.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Contracts.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Debug.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Process.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tools.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tracing.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Drawing.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Dynamic.Runtime.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Calendars.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Extensions.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.IsolatedStorage.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Pipes.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Expressions.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Parallel.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Queryable.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Http.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NameResolution.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NetworkInformation.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Ping.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Requests.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Security.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Sockets.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.Client.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ObjectModel.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Extensions.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Reader.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.ResourceManager.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Writer.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Extensions.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Handles.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Numerics.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Claims.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Principal.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.SecureString.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.RegularExpressions.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Overlapped.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Thread.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.ThreadPool.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Timer.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ValueTuple.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.ReaderWriter.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XDocument.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlDocument.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlSerializer.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\SharpCompress.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csprojAssemblyReference.cache
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ChatMessage.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactSeller.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Draw.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.HomePageMenu.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.LoginForm.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.MyArtworks.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.RegForm.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.SplashScreen.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Properties.Resources.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.UploadArtwork.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewArtwork.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.WelcomePage.resources
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.GenerateResource.cache
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CoreCompileInputs.cache
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CopyComplete
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.exe
+E:\iXhibit\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.pdb
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy32.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy64.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.so
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.so
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.dylib
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dylib
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\mongocrypt.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe.config
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.pdb
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\netstandard.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.AppContext.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Console.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Data.Common.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Pipes.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Http.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Ping.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Requests.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Security.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Sockets.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ObjectModel.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Reader.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Writer.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Claims.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Principal.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.SecureString.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Thread.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Timer.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\SharpCompress.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.AssemblyReference.cache
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ChatMessage.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactSeller.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Draw.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.HomePageMenu.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.LoginForm.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.MyArtworks.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.RegForm.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.SplashScreen.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Properties.Resources.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.UploadArtwork.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewArtwork.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.WelcomePage.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.GenerateResource.cache
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CoreCompileInputs.cache
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CopyComplete
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.exe
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.pdb
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.AboutUs.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactUs.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.FAQ.resources
+C:\Users\Julianne\Documents\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewMyArtwork.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy32.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy64.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.so
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.so
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.dylib
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dylib
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\mongocrypt.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe.config
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.pdb
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\netstandard.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.AppContext.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Specialized.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Console.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Data.Common.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Pipes.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Expressions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Parallel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Queryable.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Http.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NameResolution.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Ping.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Requests.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Security.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Sockets.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ObjectModel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Reader.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Writer.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Handles.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Claims.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Principal.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.SecureString.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Thread.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Timer.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XDocument.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\SharpCompress.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csprojAssemblyReference.cache
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.AboutUs.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ChatMessage.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactSeller.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactUs.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Draw.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.FAQ.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.HomePageMenu.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.LoginForm.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.MyArtworks.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.RegForm.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.SplashScreen.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Properties.Resources.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.UploadArtwork.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewArtwork.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewMyArtwork.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.WelcomePage.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.GenerateResource.cache
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CoreCompileInputs.cache
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CopyComplete
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.exe
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 44 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.pdb
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy32.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\snappy64.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.so
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.so
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libsnappy64.dylib
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\libzstd.dylib
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\mongocrypt.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe.config
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.exe
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\iXhibitFinal.pdb
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\netstandard.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.AppContext.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Collections.Specialized.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Console.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Data.Common.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.Pipes.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Expressions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Parallel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Linq.Queryable.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Http.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NameResolution.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Ping.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Requests.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Security.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.Sockets.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Net.WebSockets.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ObjectModel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Reader.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Resources.Writer.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Handles.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Claims.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.Principal.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Security.SecureString.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Thread.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Threading.Timer.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XDocument.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\SharpCompress.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\DnsClient.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Bson.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Buffers.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Memory.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csprojAssemblyReference.cache
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.AboutUs.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ChatMessage.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactSeller.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ContactUs.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Draw.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.FAQ.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.HomePageMenu.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.LoginForm.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.MyArtworks.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.RegForm.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.SplashScreen.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.Properties.Resources.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.UploadArtwork.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewArtwork.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.ViewMyArtwork.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.WelcomePage.resources
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.GenerateResource.cache
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CoreCompileInputs.cache
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.csproj.CopyComplete
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.exe
+C:\Users\argan\Downloads\UPDATED IXHIBIT\latest - almost 95 percent of completion - iXhibitFinal\iXhibitFinal\obj\Debug\iXhibitFinal.pdb
